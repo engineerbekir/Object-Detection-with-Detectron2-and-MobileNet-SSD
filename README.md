@@ -18,9 +18,10 @@ create object detection,instance segmentation, keypoint detection and panoptic s
 
 - Requirement: Firstly; Install Detectron2, OpenCV DNN and Qt Creator. 
 - Thanks to Qt Creator, its design was realized.
-- Using Pytorch-based Detectron2 algorithm and TensorFlow deep learning framework with MobileNet SSD (Single Shot Detector) trained on MS COCO dataset offer object detection, accuracy and speed control 
+- Pytorch-based Detectron2 algorithm and using TensorFlow deep learning framework MobileNet SSD trained on MS COCO dataset are  used and thus object detection, speed and accuracy control are performed using these models..
 
-## CONCLUSIONS
+
+## Conclusions
 - Real-time object detection and tracking on video streams is a crucial topic of surveillance systems in many field applications. 
 The objective of our paper is to make a comparative study on two object recognition systems using CNN to identify the objects in the images. 
 I studied and analyzed the Detectron2 object detection model and MobileNet SSD model for performance evaluation in same 
