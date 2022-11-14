@@ -8,6 +8,7 @@ These objects are detected by making use of higher resolution feature maps and a
 [Mobilenet-SSD](https://ebenezertechs.com/mobilenet-ssd-using-opencv-3-4-1-deep-learning-module-python/) is an object detection model that computes the output bounding box and class of an object from an input image. This Single Shot Detector (SSD) object detection model uses Mobilenet as the backbone and can achieve fast object detection optimized for mobile devices.
 
 ## DETECTRON2
+### What is Detectron2 exactly?
 - [Detectron2](https://github.com/facebookresearch/detectron2) is Facebook's new vision library that allows use to easily use and 
 create object detection,instance segmentation, keypoint detection and panoptic segmentation models.
 
