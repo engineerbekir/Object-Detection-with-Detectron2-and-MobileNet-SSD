@@ -13,3 +13,5 @@ These objects are detected by making use of higher resolution feature maps and a
 create object detection,instance segmentation, keypoint detection and panoptic segmentation models.
 
 <img align="center" src = "https://github.com/engineerbekir/Object-Detection-with-Detectron2-and-MobileNet-SSD/blob/master/gif.mp4" width = "800" height ="400"/>
+
+## How Does It Work ? 
