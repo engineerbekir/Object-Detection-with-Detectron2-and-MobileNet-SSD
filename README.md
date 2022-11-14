@@ -15,3 +15,5 @@ create object detection,instance segmentation, keypoint detection and panoptic s
 <img align="center" src = "https://github.com/engineerbekir/Object-Detection-with-Detectron2-and-MobileNet-SSD/blob/master/gif.mp4" width = "800" height ="400"/>
 
 ## How Does It Work ? 
+### Requirement 
+- Install Detectron2, OpenCV DNN and Qt Creator 
