@@ -52,7 +52,7 @@ class MultiCam(QMainWindow):
         self.VideoThread_1=None
         self.VideoThread_2=None
        
-        self.VideoPaths=["C:\\Users\\casper\\Desktop\\MobileNetSSD\\input\\video.mp4"] 
+        self.VideoPaths=[".\\input\\video.mp4"] 
         
 
         self.VideoThread =[self.VideoThread_1,self.VideoThread_2]
