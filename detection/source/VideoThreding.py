@@ -1,3 +1,6 @@
+
+# ******* Created by Bekir ÖZTÜRK **********
+
 import threading
 import time
 import cv2,sys,base64
