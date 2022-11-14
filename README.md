@@ -12,3 +12,4 @@ These objects are detected by making use of higher resolution feature maps and a
 - [Detectron2](https://github.com/facebookresearch/detectron2) is Facebook's new vision library that allows use to easily use and 
 create object detection,instance segmentation, keypoint detection and panoptic segmentation models.
 
+<img align="center" src = "" width = "800" height ="400"/>
