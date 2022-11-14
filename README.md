@@ -21,7 +21,7 @@ Requirement: Firstly; Install Detectron2, OpenCV DNN and Qt Creator.
 - Using Pytorch-based Detectron2 algorithm and TensorFlow deep learning framework with MobileNet SSD (Single Shot Detector) trained on MS COCO dataset offer object detection, accuracy and speed control 
 
 ## CONCLUSIONS
--Real-time object detection and tracking on video streams is a crucial topic of surveillance systems in many field applications. 
+- Real-time object detection and tracking on video streams is a crucial topic of surveillance systems in many field applications. 
 The objective of our paper is to make a comparative study on two object recognition systems using CNN to identify the objects in the images. 
 I studied and analyzed the Detectron2 object detection model and MobileNet SSD model for performance evaluation in same 
 scenario. Each of the compared models has its own unique properties and is successful in its respective application. Detectron2 provides better accuracy compared to MobileNet SSD, which provides more detection speed.
