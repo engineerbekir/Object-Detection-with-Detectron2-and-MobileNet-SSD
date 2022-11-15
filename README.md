@@ -1,6 +1,6 @@
 # Object-Detection-with-Detectron2-and-MobileNet-SSD
 
-## MOBILENET-SSD
+## MOBILENET SSD
 
 ### What is MobilenetSSD?
 - Deep neural networks are used to develop a model which consists of multiple layers to classify the given objects into any of the defined classes. 
