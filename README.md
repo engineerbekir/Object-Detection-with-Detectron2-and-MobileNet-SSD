@@ -18,7 +18,7 @@ create object detection,instance segmentation, keypoint detection and panoptic s
 
 - Requirement: Firstly; Install Detectron2, OpenCV DNN and Qt Creator. 
 - Thanks to Qt Creator, its design is realized.
-- Pytorch-based Detectron2 algorithm and using TensorFlow deep learning framework MobileNet SSD trained on MS COCO dataset are  used and thus object detection, speed and accuracy control are performed using these models..
+- Pytorch-based Detectron2 algorithm and using TensorFlow deep learning framework MobileNet SSD trained on MS COCO dataset are  used and thus object detection, speed and accuracy control are performed using these models.
 
 
 ## Conclusions
