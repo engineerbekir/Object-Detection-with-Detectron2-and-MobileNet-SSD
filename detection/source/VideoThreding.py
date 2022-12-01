@@ -45,7 +45,7 @@ class VideoCapture(threading.Thread,QObject):
     
     def MobileNetSSDonVideo(self, videoPath):
         
-        with open('C:\\Users\\casper\\Desktop\\MobileNetSSD\\input\\object_detection_classes_coco.txt', 'r') as f:
+        with open('object_detection_classes_coco.txt', 'r') as f:
             class_names = f.read().split('\n')
 
         COLORS = np.random.uniform(0, 255, size=(len(class_names), 3))
